@@ -4,6 +4,8 @@
 
 For seamless printer integration, we configured a printer gateway, allowing all devices on the network to share the printer without conflicts or performance issues. The network was designed to ensure secure and reliable communication using the TCP/IP protocol, which facilitated efficient data transfer and addressed protocol requirements for local network and internet access.
 
+![Image Thumbnail](1.png) 
+
 During this project, I had the responsibility of leading a team of network engineers and technicians, overseeing tasks from initial planning to execution. This leadership role involved assigning tasks, troubleshooting installation challenges, and coordinating efforts to ensure the project was completed within the designated timeframe.
 
 # Key Steps and Features of the Project:
